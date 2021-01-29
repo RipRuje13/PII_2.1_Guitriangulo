@@ -1,0 +1,1 @@
+guitriangulo.GUItriangulo
